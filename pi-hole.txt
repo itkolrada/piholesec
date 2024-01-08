@@ -1,3 +1,5 @@
+0.0.0.0 funedunet.com
+0.0.0.0 new-tech-savvy.com
 0.0.0.0 czyrqdnvpujmmjkfhhvs4knf1av02demj.oast.fun
 0.0.0.0 czyrqdnvpujmmjkfhhvsclx05sfi23bfr.oast.fun
 0.0.0.0 czyrqdnvpujmmjkfhhvsgapqr3hclnhhj.oast.fun

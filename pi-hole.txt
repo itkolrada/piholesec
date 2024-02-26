@@ -1,3 +1,7 @@
+0.0.0.0 shorturl.at
+0.0.0.0 array.myftp.biz
+0.0.0.0 bom02.gotdns.ch
+0.0.0.0 worker-test-6f41.idv64828.workers.dev
 0.0.0.0 funedunet.com
 0.0.0.0 new-tech-savvy.com
 0.0.0.0 rmssrv.ru

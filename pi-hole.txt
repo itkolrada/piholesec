@@ -1,3 +1,5 @@
+0.0.0.0 netman.servehttp.com
+0.0.0.0 worker-misty-mouse-6ac7.aky15825.workers.dev
 0.0.0.0 gjthre3vt.top
 0.0.0.0 gjtwo2two.top
 0.0.0.0 gkeith8sb.top

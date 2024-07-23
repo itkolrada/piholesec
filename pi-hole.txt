@@ -1,3 +1,11 @@
+0.0.0.0 prozorro-ua.net
+0.0.0.0 servicedesk.atera.com
+0.0.0.0 trust-certificate.net
+0.0.0.0 namecheap.com
+0.0.0.0 enrollmentdm.com
+0.0.0.0 namecheap.com
+0.0.0.0 m247.com
+0.0.0.0 mtw.ru
 0.0.0.0 rebirthbot.icu
 0.0.0.0 kisel228.zapto.org
 0.0.0.0 dim26.lovetco.ru

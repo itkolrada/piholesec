@@ -1,3 +1,6 @@
+0.0.0.0 griselda-edu.com.ua
+0.0.0.0 griselda.biz.ua
+0.0.0.0 griselda.co.ua
 0.0.0.0 prozorro.online
 0.0.0.0 beget.com
 0.0.0.0 ukraero.space

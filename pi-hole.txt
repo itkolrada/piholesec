@@ -1,3 +1,6 @@
+0.0.0.0 edisk.ukrnet.01mirror.com.ua
+0.0.0.0 ukrnet.01mirror.com.ua
+0.0.0.0 staticgl.one
 0.0.0.0 ca-central-1.awsplatform.online
 0.0.0.0 ca-west-1.mfa-gov.cloud
 0.0.0.0 central-2-aws.ua-aws.army

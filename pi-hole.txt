@@ -1,3 +1,5 @@
+0.0.0.0 furqaanenergy.com
+0.0.0.0 documentreader.net
 0.0.0.0 edisk.ukrnet.01mirror.com.ua
 0.0.0.0 ukrnet.01mirror.com.ua
 0.0.0.0 staticgl.one

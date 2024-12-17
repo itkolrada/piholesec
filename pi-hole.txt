@@ -1,3 +1,6 @@
+0.0.0.0 captcha-challenge.com
+0.0.0.0 newyorktlimes.life
+0.0.0.0 webappapiservice.life
 0.0.0.0 furqaanenergy.com
 0.0.0.0 documentreader.net
 0.0.0.0 edisk.ukrnet.01mirror.com.ua

@@ -1,3 +1,11 @@
+0.0.0.0 workers.dev
+0.0.0.0 desktopapluscom.workers.dev
+0.0.0.0 desktopaplus.workers.dev
+0.0.0.0 armyplus-desktop.workers.dev
+0.0.0.0 aplusdesktop.workers.dev
+0.0.0.0 armylpus.workers.dev
+0.0.0.0 aplusmodgovua.workers.dev
+0.0.0.0 wvtmsouaa2gt6jmcuxj5hkfrqdss5lhecoqijt5dl7gfruueu3i5mkad.onion
 0.0.0.0 captcha-challenge.com
 0.0.0.0 newyorktlimes.life
 0.0.0.0 webappapiservice.life

@@ -1,3 +1,4 @@
+0.0.0.0 imgurl.ir
 0.0.0.0 santel.in.ua
 0.0.0.0 i.ibb.co
 0.0.0.0 r2.cloudflarestorage.com

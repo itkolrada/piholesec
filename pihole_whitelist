@@ -1,3 +1,15 @@
+# Cloudflare WARP та DNS
+warp.cloudflare.com
+engage.cloudflareclient.com
+connectivity.cloudflareclient.com
+security.cloudflare-dns.com
+cloudflare-dns.com
+www.cloudflare.com
+cf-v4.cloudflare.com
+teams.cloudflare.com
+cdnjs.cloudflare.com
+
+# Урядові сервіси України
 cabinet.tax.gov.ua
 ca.tax.gov.ua
 acskidd.gov.ua
@@ -8,11 +20,17 @@ id.gov.ua
 e-data.gov.ua
 spending.gov.ua
 trembita.gov.ua
+
+# Банки (ПриватБанк, Монобанк)
 api.privatbank.ua
+payhub.privatbank.ua
 pb.ua
 privat24.ua
 api.monobank.ua
+api.paymonobank.ua
 monobank.ua
+
+# Google (DNS, безпека, браузер, NTP)
 clients3.google.com
 clients4.google.com
 clients5.google.com
@@ -25,6 +43,9 @@ www.gstatic.com
 www.google.com
 fonts.googleapis.com
 fonts.gstatic.com
+connectivitycheck.gstatic.com
+
+# Microsoft (оновлення, офіс, час, авторизація)
 www.msftconnecttest.com
 www.msftncsi.com
 dns.msftncsi.com
@@ -35,27 +56,47 @@ officeclient.microsoft.com
 dl.delivery.mp.microsoft.com
 update.microsoft.com
 ntservicepack.microsoft.com
+windowsupdate.microsoft.com
+download.windowsupdate.com
+storeedgefd.dsx.mp.microsoft.com
+
+# Apple (оновлення, NTP, push, безпека)
 ocsp.apple.com
 guzzoni.apple.com
 init-p01st.push.apple.com
 updates.cdn-apple.com
 mesu.apple.com
+configuration.apple.com
+xp.apple.com
+
+# Антивірусні сервіси (ESET, Avast, Norton)
 update.eset.com
 livegrid.eset.com
+repository.eset.com
 avast.com
 defs.symantec.com
 norton.com
+
+# Служби часу (альтернативні)
 ntp.org
 pool.ntp.org
 time.windows.com
+
+# Mozilla push
 push.services.mozilla.com
+
+# OCSP, сертифікати, TLS
 ocsp.digicert.com
+acme-v02.api.letsencrypt.org
+
+# GitHub
 status.github.com
 github.com
 raw.githubusercontent.com
+
+# Telegram API
 api.telegram.org
+
+# CDN
 cdn.jsdelivr.net
 cdnjs.cloudflare.com
-cloudflare-dns.com
-acme-v02.api.letsencrypt.org
-www.cloudflare.com

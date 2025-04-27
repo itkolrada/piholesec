@@ -8,8 +8,6 @@ www.cloudflare.com
 cf-v4.cloudflare.com
 teams.cloudflare.com
 cdnjs.cloudflare.com
-engage.cloudflareclient.com
-connectivity.cloudflareclient.com
 cloudflarewarp.com
 warp.cloudflareclient.com
 api.cloudflareclient.com
@@ -35,8 +33,11 @@ privat24.ua
 api.monobank.ua
 api.paymonobank.ua
 monobank.ua
+static.monobank.ua
+web.monobank.ua
+pay.monobank.ua
 
-# Google (DNS, безпека, браузер, NTP)
+# Google (DNS, безпека, оновлення)
 clients3.google.com
 clients4.google.com
 clients5.google.com
@@ -50,8 +51,11 @@ www.google.com
 fonts.googleapis.com
 fonts.gstatic.com
 connectivitycheck.gstatic.com
+play.googleapis.com
+android.clients.google.com
+accounts.google.com
 
-# Microsoft (оновлення, офіс, час, авторизація)
+# Microsoft (оновлення, Office 365)
 www.msftconnecttest.com
 www.msftncsi.com
 dns.msftncsi.com
@@ -65,8 +69,11 @@ ntservicepack.microsoft.com
 windowsupdate.microsoft.com
 download.windowsupdate.com
 storeedgefd.dsx.mp.microsoft.com
+ctldl.windowsupdate.com
+officecdn.microsoft.com
+settings-win.data.microsoft.com
 
-# Apple (оновлення, NTP, push, безпека)
+# Apple (оновлення, NTP, Push)
 ocsp.apple.com
 guzzoni.apple.com
 init-p01st.push.apple.com
@@ -74,251 +81,46 @@ updates.cdn-apple.com
 mesu.apple.com
 configuration.apple.com
 xp.apple.com
+api.push.apple.com
+time-ios.apple.com
 
-# Антивірусні сервіси (ESET, Avast, Norton)
+# Антивірусні сервіси
 update.eset.com
 livegrid.eset.com
 repository.eset.com
 avast.com
 defs.symantec.com
 norton.com
+liveupdate.symantecliveupdate.com
 
-# Служби часу (альтернативні)
+# Служби часу
 ntp.org
 pool.ntp.org
 time.windows.com
 
-# Mozilla push
+# Mozilla Push
 push.services.mozilla.com
 
-# OCSP, сертифікати, TLS
+# OCSP / сертифікати / TLS
 ocsp.digicert.com
 acme-v02.api.letsencrypt.org
+ocsp.usertrust.com
+crl3.digicert.com
 
 # GitHub
 status.github.com
 github.com
 raw.githubusercontent.com
+api.github.com
 
 # Telegram API
 api.telegram.org
+core.telegram.org
 
 # CDN
 cdn.jsdelivr.net
-cdnjs.cloudfla# Cloudflare WARP та DNS
-warp.cloudflare.com
-engage.cloudflareclient.com
-connectivity.cloudflareclient.com
-security.cloudflare-dns.com
-cloudflare-dns.com
-www.cloudflare.com
-cf-v4.cloudflare.com
-teams.cloudflare.com
-cdnjs.cloudflare.com
-engage.cloudflareclient.com
-connectivity.cloudflareclient.com
-cloudflarewarp.com
-warp.cloudflareclient.com
-api.cloudflareclient.com
-update.argotunnel.com
 
-# Урядові сервіси України
-cabinet.tax.gov.ua
-ca.tax.gov.ua
-acskidd.gov.ua
-portal.pfu.gov.ua
-diia.gov.ua
-login.diia.gov.ua
-id.gov.ua
-e-data.gov.ua
-spending.gov.ua
-trembita.gov.ua
-
-# Банки (ПриватБанк, Монобанк)
-api.privatbank.ua
-payhub.privatbank.ua
-pb.ua
-privat24.ua
-api.monobank.ua
-api.paymonobank.ua
-monobank.ua
-
-# Google (DNS, безпека, браузер, NTP)
-clients3.google.com
-clients4.google.com
-clients5.google.com
-safebrowsing.googleapis.com
-safebrowsing.google.com
-ocsp.pki.goog
-time.google.com
-dns.google
-www.gstatic.com
-www.google.com
-fonts.googleapis.com
-fonts.gstatic.com
-connectivitycheck.gstatic.com
-
-# Microsoft (оновлення, офіс, час, авторизація)
-www.msftconnecttest.com
-www.msftncsi.com
-dns.msftncsi.com
-login.live.com
-outlook.office365.com
-graph.microsoft.com
-officeclient.microsoft.com
-dl.delivery.mp.microsoft.com
-update.microsoft.com
-ntservicepack.microsoft.com
-windowsupdate.microsoft.com
-download.windowsupdate.com
-storeedgefd.dsx.mp.microsoft.com
-
-# Apple (оновлення, NTP, push, безпека)
-ocsp.apple.com
-guzzoni.apple.com
-init-p01st.push.apple.com
-updates.cdn-apple.com
-mesu.apple.com
-configuration.apple.com
-xp.apple.com
-
-# Антивірусні сервіси (ESET, Avast, Norton)
-update.eset.com
-livegrid.eset.com
-repository.eset.com
-avast.com
-defs.symantec.com
-norton.com
-
-# Служби часу (альтернативні)
-ntp.org
-pool.ntp.org
-time.windows.com
-
-# Mozilla push
-push.services.mozilla.com
-
-# OCSP, сертифікати, TLS
-ocsp.digicert.com
-acme-v02.api.letsencrypt.org
-
-# GitHub
-status.github.com
-github.com
-raw.githubusercontent.com
-
-# Telegram API
-api.telegram.org
-
-# CDN# Cloudflare WARP та DNS
-warp.cloudflare.com
-engage.cloudflareclient.com
-connectivity.cloudflareclient.com
-security.cloudflare-dns.com
-cloudflare-dns.com
-www.cloudflare.com
-cf-v4.cloudflare.com
-teams.cloudflare.com
-cdnjs.cloudflare.com
-engage.cloudflareclient.com
-connectivity.cloudflareclient.com
-cloudflarewarp.com
-warp.cloudflareclient.com
-api.cloudflareclient.com
-update.argotunnel.com
-
-# Урядові сервіси України
-cabinet.tax.gov.ua
-ca.tax.gov.ua
-acskidd.gov.ua
-portal.pfu.gov.ua
-diia.gov.ua
-login.diia.gov.ua
-id.gov.ua
-e-data.gov.ua
-spending.gov.ua
-trembita.gov.ua
-
-# Банки (ПриватБанк, Монобанк)
-api.privatbank.ua
-payhub.privatbank.ua
-pb.ua
-privat24.ua
-api.monobank.ua
-api.paymonobank.ua
-monobank.ua
-
-# Google (DNS, безпека, браузер, NTP)
-clients3.google.com
-clients4.google.com
-clients5.google.com
-safebrowsing.googleapis.com
-safebrowsing.google.com
-ocsp.pki.goog
-time.google.com
-dns.google
-www.gstatic.com
-www.google.com
-fonts.googleapis.com
-fonts.gstatic.com
-connectivitycheck.gstatic.com
-
-# Microsoft (оновлення, офіс, час, авторизація)
-www.msftconnecttest.com
-www.msftncsi.com
-dns.msftncsi.com
-login.live.com
-outlook.office365.com
-graph.microsoft.com
-officeclient.microsoft.com
-dl.delivery.mp.microsoft.com
-update.microsoft.com
-ntservicepack.microsoft.com
-windowsupdate.microsoft.com
-download.windowsupdate.com
-storeedgefd.dsx.mp.microsoft.com
-
-# Apple (оновлення, NTP, push, безпека)
-ocsp.apple.com
-guzzoni.apple.com
-init-p01st.push.apple.com
-updates.cdn-apple.com
-mesu.apple.com
-configuration.apple.com
-xp.apple.com
-
-# Антивірусні сервіси (ESET, Avast, Norton)
-update.eset.com
-livegrid.eset.com
-repository.eset.com
-avast.com
-defs.symantec.com
-norton.com
-
-# Служби часу (альтернативні)
-ntp.org
-pool.ntp.org
-time.windows.com
-
-# Mozilla push
-push.services.mozilla.com
-
-# OCSP, сертифікати, TLS
-ocsp.digicert.com
-acme-v02.api.letsencrypt.org
-
-# GitHub
-status.github.com
-github.com
-raw.githubusercontent.com
-
-# Telegram API
-api.telegram.org
-
-# CDN
-cdn.jsdelivr.net
-cdnjs.cloudflare.com
-
+# World of Tanks Blitz (EU регiон)
 login.p1.worldoftanks.eu
 login.p2.worldoftanks.eu
 login.p3.worldoftanks.eu
@@ -327,25 +129,5 @@ wotblitz.eu
 wargaming.net
 eu.wargaming.net
 cdn.wargaming.net
-
-cdn.jsdelivr.net
-cdnjs.cloudflare.com
-
-login.p1.worldoftanks.eu
-login.p2.worldoftanks.eu
-login.p3.worldoftanks.eu
-login.p4.worldoftanks.eu
-wotblitz.eu
-wargaming.net
-eu.wargaming.net
-cdn.wargaming.net
-re.com
-
-login.p1.worldoftanks.eu
-login.p2.worldoftanks.eu
-login.p3.worldoftanks.eu
-login.p4.worldoftanks.eu
-wotblitz.eu
-wargaming.net
-eu.wargaming.net
-cdn.wargaming.net
+wg.gcdn.wargaming.net
+wgus.wargaming.net

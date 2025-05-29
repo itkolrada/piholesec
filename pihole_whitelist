@@ -72,6 +72,23 @@ storeedgefd.dsx.mp.microsoft.com
 ctldl.windowsupdate.com
 officecdn.microsoft.com
 settings-win.data.microsoft.com
+microsoft.com
+office.com
+outlook.com
+live.com
+msn.com
+microsoftonline.com
+microsoft365.com
+office365.com
+teams.microsoft.com
+login.microsoftonline.com
+graph.microsoft.com
+outlook.office365.com
+products.office.com
+onedrive.live.com
+cdn.office.net
+assets.onestore.ms
+
 
 # Apple (оновлення, NTP, Push)
 ocsp.apple.com
